@@ -1,0 +1,6 @@
+{
+  "title": "LEGO.scad Quickstart",
+  "entryPath": "/index.scad",
+  "linkedLibraries": ["lego-scad"],
+  "features": ["openscad", "lego-scad", "widgets", "quickstart"]
+}

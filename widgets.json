@@ -1,0 +1,27 @@
+[
+  {
+    "name": "stud_width",
+    "type": "Slider",
+    "description": "Block width in studs",
+    "range": "1,8,1",
+    "defaultValue": "2"
+  },
+  {
+    "name": "stud_length",
+    "type": "Slider",
+    "description": "Block length in studs",
+    "range": "1,12,1",
+    "defaultValue": "4"
+  },
+  {
+    "name": "brick_height",
+    "type": "Dropdown",
+    "description": "Plate, brick, or double-brick height",
+    "options": [
+      { "label": "Plate", "value": "0.333333" },
+      { "label": "Brick", "value": "1" },
+      { "label": "Double brick", "value": "2" }
+    ],
+    "defaultValue": "1"
+  }
+]
