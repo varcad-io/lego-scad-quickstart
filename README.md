@@ -1,3 +1,5 @@
+[![LEGO.scad Quickstart geometry preview](https://varcad.io/assets/repository-previews/26/86/preview-v8/orbit.webp)](https://varcad.io/varcad-io/lego-scad-quickstart)
+
 # LEGO.scad Quickstart
 
 [Launch this project in the Varcad IDE](https://varcad.io/varcad-io/lego-scad-quickstart)
